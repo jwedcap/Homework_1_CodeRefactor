@@ -5,4 +5,4 @@ Hello! In this first assignment you will be visiting the Horiseon Webpage. This 
 https://jwedcap.github.io/Homework_1_CodeRefactor/
 
 ### Example of the Webpage
-
+![Alt text](https://raw.githubusercontent.com/jwedcap/Homework_1_CodeRefactor/master/01-html-css-git-homework-demo.png)
